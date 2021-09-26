@@ -1,0 +1,19 @@
+{
+  "name": "helix-studio",
+  "version": "1.0.0",
+  "description": "Helix Studio is a South African based agency what implements 3d animation into professional websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadLabDesign/helix-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadLabDesign/helix-studio/issues"
+  },
+  "homepage": "https://github.com/MadLabDesign/helix-studio#readme"
+}
